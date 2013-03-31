@@ -1,0 +1,9 @@
+.dokuwiki #plugin__requiz_wrapper pre {
+    font-size: 70%;
+    font-family: monospace;
+    font-weight: bold;
+    border: none;
+    background-color: __background__;
+    color: __text__;
+    padding: 0;
+}

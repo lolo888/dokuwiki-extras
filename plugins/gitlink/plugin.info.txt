@@ -1,0 +1,8 @@
+base   gitlink
+author Daniel-Constantin Mierla
+email  miconda@gmail.com
+date   2013-03-31
+name   GitLink Plugin
+desc   Auto-generate links to WebGit system
+url    http://www.dokuwiki.org/plugin:gitlink2
+

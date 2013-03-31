@@ -1,0 +1,8 @@
+base   flyspraylink
+author Daniel-Constantin Mierla
+email  miconda@gmail.com
+date   2013-03-31
+name   FlysprayLink Plugin
+desc   Auto-generate links to Flyspray bug tracking system
+url    http://www.dokuwiki.org/plugin:flyspraylink
+

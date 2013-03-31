@@ -1,0 +1,8 @@
+base   requiz
+author Daniel-Constantin Mierla
+email  miconda@gmail.com
+date   2013-03-31
+name   REQUIZ Plugin
+desc   Use a quiz challenge to protect DokuWiki against automated spam
+url    http://www.dokuwiki.org/plugin:requiz
+
